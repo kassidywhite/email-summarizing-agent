@@ -4,7 +4,7 @@ This python application uses ChatGPT's gpt-5-nano model via the openai library i
 
 ### Purpose
 
-This project was created to play with prompt engineering and document summarization techniques.
+This project was created to play with prompt engineering and document summarization techniques. Future plans are to integrate a UI.
 
 ### Features
 
