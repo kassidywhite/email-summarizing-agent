@@ -10,4 +10,4 @@ Task List Generation
 Daily Summaries
 
 
-This project is largely based on the project based off of the one found at: https://github.com/isaiahshall/Local-LLaMA-Email-Agent/blob/main/Readme.md
+This project is largely based on the project found at: https://github.com/isaiahshall/Local-LLaMA-Email-Agent/blob/main/Readme.md
