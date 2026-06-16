@@ -43,7 +43,7 @@ def processParts(parts):
             body = part.get("body")
             data = body.get("data")
             new_html = base64.urlsafe_b64decode(data)
-            body_html += str(new_message, 'utf-8')
+            body_html += str(new_html, 'utf-8')
     return [body_message, body_html]
 
 
